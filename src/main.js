@@ -1,5 +1,8 @@
 import Vue from 'vue'
 import App from './App.vue'
+import Home from './components/Home'
+
+Vue.component("lamp-component",Home)
 
 new Vue({
   el: '#app',
