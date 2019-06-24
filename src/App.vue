@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h2>Merhaba single file template</h2>
+    <h2>Merhaba single file template </h2>
   </div>
 </template>
 
